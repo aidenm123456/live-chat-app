@@ -2,7 +2,9 @@ import React from 'react'
 
 const Register = () => {
   return (
-    <div>Register</div>
+    <div>
+      Please Login to the SWE Chat
+    </div>
   )
 }
 
