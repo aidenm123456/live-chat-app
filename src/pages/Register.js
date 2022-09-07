@@ -2,10 +2,20 @@ import React from 'react'
 
 const Register = () => {
   return (
-    <div>
-      Please Login to the SWE Chat
+    <div style={Container}>
+      <div style={Wrapper}>
+
+      </div>
     </div>
   )
 }
+
+const Container = {
+
+};
+
+const Wrapper = {
+  
+};
 
 export default Register
